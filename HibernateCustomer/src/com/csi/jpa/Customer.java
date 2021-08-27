@@ -2,7 +2,7 @@ package com.csi.jpa;
 
 public class Customer {
 
-	private int custId;
+	
 	private String custName;
 	private String custAdd;
 	public int getCustId() {
